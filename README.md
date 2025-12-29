@@ -4,13 +4,13 @@ COMPANY:Unified Mentor
 
 NAME: AKSHAY MANOJ SHARMA
 
-INTERN ID: :CT08KRF
+UNID: :UMID27092559518
 
 DOMAIN: FULL STACK WEB DEVELOPEMENT
 
 DURATION:12 WEEKS
 
-MENTOR: NEELA SANTOSH
+HR Manager: Drishti Madaan
 
 I recently created  a weather app for  my 1st internship  project at codtech. my  goal  was to design  a response weather app that provides
 users with real-time weather information.  this app allows users to access accurate weather data for any location in the city.
